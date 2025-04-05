@@ -4,13 +4,13 @@ NGO/MIS is a collection of digital tools, platforms, and curated datasets for th
 
 <p align="center">
   <a href="https://www.ngomis.com" target="_blank" title="Website">
-    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" height="24" alt="Website"/>
+    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" height="24"/>
   </a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:hello@ngomis.com" title="Email">
-    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/envelope.svg" height="24" alt="Email"/>
+    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/envelope.svg" height="24"/>
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ngomis-com" target="_blank" title="Github">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" height="24" alt="Github"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" height="24"/>
   </a>
 </p>
 
@@ -20,13 +20,13 @@ Drafting a survey form using XLS or XML and translating for Open Data Kit based 
 
 <p align="center">
   <a href="https://www.capibuilder.com/" target="_blank" title="CAPIBuilder Website">
-     <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" height="24" alt="Website"/>
+     <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" height="24"/>
   </a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:hi@capibuilder.com" title="CAPIBuilder Email">
-     <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/envelope.svg" height="24" alt="Email"/>
+     <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/envelope.svg" height="24"/>
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/capibuilder/capibuilder-odk" target="_blank" title="CAPIBuilder Github">
-     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" height="24" alt="Github"/>
+     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" height="24"/>
   </a>
 </p>
 
@@ -43,7 +43,7 @@ Collating data across organization and projects for drafting the Annual Report i
 
 <p align="center">
   <a href="https://ngomis.com/annual-report" target="_blank" title="Annual Report Website">
-    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" height="24" alt="Website"/>
+    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" height="24"/>
   </a>
 </p>
 
@@ -60,7 +60,7 @@ NGO/MIS Mail is a marketing email service, powered by popular open-source applic
 
 <p align="center">
   <a href="https://mail.ngomis.com/" target="_blank" title="Nonprofit Mailer Website">
-     <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" height="24" alt="Website"/>
+     <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" height="24"/>
   </a>
 </p>
 
