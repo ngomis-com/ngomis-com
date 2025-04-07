@@ -1,5 +1,4 @@
 ## NGO/MIS
-
 NGO/MIS is a collection of digital tools, platforms, and curated datasets for the nonprofits worldwide. The tools include Data Collection, Analytics, Reporting, Web Apps, Mobile Apps, and browser extensions.
 
 <p align="center">
@@ -15,7 +14,6 @@ NGO/MIS is a collection of digital tools, platforms, and curated datasets for th
 </p>
 
 ## CAPIBuilder
----
 Drafting a survey form using XLS or XML and translating for Open Data Kit based survey applications take considerable nonprofit resouces. CAPIBuilder provides a user friendly drag and drop user interface and automatic translation to speed form building processes for the nonprofits to launch their field activities in days, not weeks.
 
 <p align="center">
@@ -38,7 +36,6 @@ Drafting a survey form using XLS or XML and translating for Open Data Kit based 
 
 
 ## Nonprofit Annual Report
----
 Collating data across organization and projects for drafting the Annual Report is a time consuming activity for the nonprofits. Generative AI tools particularly those with reasoning or thinking can traverse through the data and content in the cloud drives (such as Google Drive or OneDrive) to create a workable first draft.
 
 <p align="center">
@@ -55,7 +52,6 @@ Collating data across organization and projects for drafting the Annual Report i
 
 
 ## Nonprofit Mailer
----
 NGO/MIS Mail is a marketing email service, powered by popular open-source application Listmonk. Nonprofits can use NGO/MIS Mail to send monthly newsletter to donors, board, and other stakeholders.
 
 <p align="center">
@@ -69,3 +65,28 @@ NGO/MIS Mail is a marketing email service, powered by popular open-source applic
   <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/users.svg" height="16" alt="Donor Database"/> Donor Database &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/newspaper.svg" height="16" alt="Newsletter"/> Nonprofit Monthly Newsletter
 </p>
+
+
+## NGO/MIS ERP - HRMS
+NGO/MIS HRMS supports the Director of Operations, HR Director, HR Managers, and other key team members driving talent development, retention in the nonprofits. HRMS helps the nonprofits in key areas:
+
+| Employee Management    | Recruitment & Onboarding | Time & Attendance Tracking |
+| :--------------------- | :----------------------- | :------------------------- |
+| Performance Management | Leave & PTO Management   | Payroll & Benefits Admin   |
+
+<table align="center" border="0" cellpadding="10" cellspacing="0">
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://erp.ngomis.com" target="_blank" title="Demo Website">
+        <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" height="24"/><br/>
+        Demo Website
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="#" title="HRMS for Nonprofits Mailing List (Link Needed)">
+        <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/envelope.svg" height="24"/><br/>
+        Mailing List
+      </a>
+    </td>
+  </tr>
+</table>
